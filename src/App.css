@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  justify-content: center;
+}
+ 
+.border-radius{
+  border-radius: 10px;
+}
+
+.Carterror{
+  text-align: left ;
+  height: 70vh;
+
+}
+
